@@ -169,6 +169,8 @@ body{
     .nav-ul{
         display: flex;
         gap: 20px;
+        margin-right: 40px;
+        white-space: nowrap;
         
     }
     .main-sponsor{
